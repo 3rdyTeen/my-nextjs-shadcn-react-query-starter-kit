@@ -9,6 +9,7 @@ using the following
 
 # Folder Structure
 
+```bash
 my-nextjs-app/
 ├── public/                   # Static assets (images, fonts, etc.)
 ├── src/
@@ -42,6 +43,7 @@ my-nextjs-app/
 ├── tailwind.config.js        # Tailwind CSS configuration
 ├── tsconfig.json             # TypeScript configuration
 └── package.json              # Project dependencies
+```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
